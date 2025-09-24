@@ -1,0 +1,17 @@
+# Build artifacts
+**/*.o
+**/*.a
+
+# Week 2 outputs
+Month1-Comp_arch_and_assembly/week2-asm/demo
+
+# Week 3 outputs
+Month1-Comp_arch_and_assembly/week3-cache/bench_cache
+
+# Week 4 outputs
+Month1-Comp_arch_and_assembly/week4-os/write_demo
+Month1-Comp_arch_and_assembly/week4-os/write_demo_libc
+Month1-Comp_arch_and_assembly/week4-os/grep_lite
+
+# Misc editor/system files
+.DS_Store
